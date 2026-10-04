@@ -6,8 +6,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ---
-# 🔄 Backup N8N Workflow Collection
-
 A collection of practical **n8n automation workflows** covering lead generation, sales outreach, WhatsApp communication, e-commerce operations, AI content generation, news automation, and workflow management.
 
 These workflows demonstrate how n8n can connect **AI models, APIs, Google Sheets, WhatsApp, email, telephony, RSS feeds, and external AI media-generation services** into automated business processes.
